@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Angular build
+/frontend/dist
+/frontend/.angular/cache
+
+# Environment files
+*.env
+
+# IDE/editor stuff
+.vscode
+.idea
+.DS_Store
