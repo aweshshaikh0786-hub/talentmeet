@@ -1,7 +1,7 @@
 import "reflect-metadata";
 import { DataSource } from "typeorm";
 import dotenv from "dotenv";
-import { User } from "./entities/User";
+import { User } from "./entities/user";
 import { RefreshToken } from "./entities/RefreshToken";
 import { Meeting } from "./entities/Meeting";
 
